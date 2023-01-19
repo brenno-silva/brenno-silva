@@ -11,7 +11,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
     <br>
     <br>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenno-silva&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
   </p>
 </div>
 
